@@ -257,5 +257,5 @@ JWT validation is handled through a **shared security library** imported by all 
 
 Developed by:
 
-**Tomás Herrado** 
+**Tomás Herrado** ·
 **Agustín Olivera** 
