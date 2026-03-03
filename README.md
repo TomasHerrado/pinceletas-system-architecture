@@ -204,8 +204,6 @@ The architecture uses a **hybrid communication model**:
 | **Synchronous** | REST API | Client ↔ Backend, Admin queries |
 | **Asynchronous** | RabbitMQ | Order events → Notification dispatch, Favorites events → Notifications |
 
-JWT validation is handled through a **shared security library** imported by all backend services, ensuring consistent and centralized authentication enforcement.
-
 ---
 
 ## 👤 Core Features
